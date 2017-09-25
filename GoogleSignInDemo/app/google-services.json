@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "7038334357",
+    "project_id": "signindemo-3f589"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7038334357:android:e8d268de8d8d224e",
+        "android_client_info": {
+          "package_name": "udea.edu.co.googlesignindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7038334357-62i78jpplshejcpsktvmloqo0loa4i12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "udea.edu.co.googlesignindemo",
+            "certificate_hash": "8e70a34ed97189ec3707c7bcbf86b58daa36415b"
+          }
+        },
+        {
+          "client_id": "7038334357-uavikk0tt0p9do8dm5rmh4krevtvkh9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSu12in3DJjbl475uroXPpaiUadk8MHSU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
